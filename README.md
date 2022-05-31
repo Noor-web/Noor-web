@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Noor-web
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP MYSQL
+- 🌱 I’m currently learning REACT
 - 💞️ I’m looking to collaborate on php
 - 📫 How to reach me mail: rifat.ru2014@gmail.com
 
